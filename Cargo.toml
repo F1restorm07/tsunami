@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "tsunami",
+    "breaker",
+    "harbor",
+    "mist",
+    "sonar",
+    "squid",
+    "tailfin",
+]
+resolver = "2"
