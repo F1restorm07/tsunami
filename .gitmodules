@@ -1,23 +1,31 @@
+[submodule "blackfish"]
+    path = blackfish
+    url = git://github.com/F1restorm07/blackfish.git
+
 [submodule "breaker"]
     path = breaker
     url = git://github.com/F1restorm07/breaker.git
 
+[submodule "driftwood"]
+    path = driftwood
+    url = git://github.com/F1restorm07/driftwood.git
+
 [submodule "harbor"]
 	path = harbor
-	url = https://github.com/F1restorm07/harbor.git
+	url = git://github.com/F1restorm07/harbor.git
 
 [submodule "mist"]
 	path = mist
-	url = https://github.com/F1restorm07/mist.git
+	url = git://github.com/F1restorm07/mist.git
 
 [submodule "sonar"]
 	path = sonar
-	url = https://github.com/F1restorm07/sonar.git
+	url = git://github.com/F1restorm07/sonar.git
 
 [submodule "squid"]
 	path = squid
-	url = https://github.com/F1restorm07/squid.git
+	url = git://github.com/F1restorm07/squid.git
 
 [submodule "tailfin"]
         path = tailfin
-        url = https://github.com/F1restorm07/tailfin.git
+        url = git://github.com/F1restorm07/tailfin.git
